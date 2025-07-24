@@ -17,10 +17,10 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Venkatanjan91&show_icons=true&theme=dracula" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Venkatanjan91&show_icons=true&theme=algolia" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatanjan91&layout=compact&theme=dracula" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatanjan91&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -30,7 +30,7 @@
 ## 🥧 Language Breakdown by Repositories
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Venkatanjan91&theme=dracula" alt="Repo Languages Pie" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Venkatanjan91&theme=tokyonight" alt="Repo Languages Pie" />
 </p>
 
 ---
@@ -38,7 +38,7 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Venkatanjan91&theme=dracula&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Venkatanjan91&theme=monokai&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
 
 ---
