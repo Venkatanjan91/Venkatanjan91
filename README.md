@@ -9,6 +9,7 @@
 <p align="center">
   🔗 <strong>Portfolio:</strong> <a href="https://my-portfolio-eight-nu-18.vercel.app/">My Portfolio</a> |
   📫 <strong>Email:</strong> venkatanjan91@gmail.com |
+  <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/venkat-anjan-kumar-p/">LinkedIn</a> |
   🗓️ <strong>GitHub Since:</strong> June 2022
 </p>
 
