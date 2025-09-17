@@ -13,24 +13,48 @@
 </p>
 
 ---
+<!-- Centered Layout with Advanced GitHub Widgets -->
 
-<table align="center">
+<div align="center">
+
+# 🚀 GitHub Profile Overview
+
+<table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Venkatanjan91&show_icons=true&theme=algolia" alt="GitHub Stats" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Venkatanjan91&theme=tokyonight" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatanjan91&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Venkatanjan91&theme=tokyonight" alt="Top Languages" />
     </td>
   </tr>
 </table>
+
+
+---
+
+## ✨ Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</p>
+
+
 
 ---
 
 ## 🥧 Language Breakdown by Repositories
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Venkatanjan91&theme=tokyonight" alt="Repo Languages Pie" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Venkatanjan91&theme=prussian" alt="Repo Languages Pie" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Venkatanjan91&theme=highcontrast" alt="Most Commit Language" />
+</p>
+
+---
+
+## 📊 Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Venkatanjan91&theme=radical" alt="Profile Details" />
 </p>
 
 ---
@@ -38,10 +62,20 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Venkatanjan91&theme=monokai&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Venkatanjan91&theme=dracula&no-frame=false&row=2&column=4" alt="GitHub Trophies" />
 </p>
 
 ---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Venkatanjan91&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+## 👀 Visitors Count
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Venkatanjan91&color=brightgreen" alt="Profile views" />
