@@ -23,10 +23,12 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Venkatanjan91&theme=tokyonight" alt="GitHub Stats" />
+      <!-- Animated GitHub streak -->
+      <img src="https://streak-stats.demolab.com?user=Venkatanjan91&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Venkatanjan91&theme=tokyonight" alt="Top Languages" />
+      <!-- Animated contributions graph -->
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Venkatanjan91&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Graph" />
     </td>
   </tr>
 </table>
@@ -68,20 +70,29 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Venkatanjan91&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
 ## 👀 Visitors Count
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Venkatanjan91&color=brightgreen" alt="Profile views" />
 </p>
 
+---
+
 <p align="center">
   ✨ _"Driven by curiosity. Grounded in impact."_
 </p>
+
+<div align="center">
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00F7FF&center=true&width=700&lines=Hello+World!;Code.+Create.+Ship.;Consistency+beats+motivation." alt="Typing Quote" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="300" alt="Coding GIF" />
+</p>
+
+<div align="center">
+
